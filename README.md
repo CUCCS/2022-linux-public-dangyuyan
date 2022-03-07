@@ -69,3 +69,8 @@ ssh-copy-id cuc@192.168.56.101
 ![copy-id](https://user-images.githubusercontent.com/74172793/156969509-fc9ac19c-8718-4907-8601-47b0c9de61c6.png)
 就搞定了~
 ![done](https://user-images.githubusercontent.com/74172793/156969514-520df096-4a29-47f2-a3f7-c9aafaa39791.png)
+
+# 参考资料
+·[win10SSH免密](https://zhuanlan.zhihu.com/p/401327519)\
+·[查看网卡](https://www.runoob.com/linux/linux-comm-ifconfig.html)\
+·[ubuntu网卡启动](https://jingyan.baidu.com/article/9113f81b7995df2b3214c702.html)
