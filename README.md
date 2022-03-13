@@ -70,3 +70,7 @@ cat /proc/meminfo |grep MemTotal
 sudo fdisk -l |grep Disk
 ```
 [![硬件信息获取](https://asciinema.org/a/EGPnZHPLj05TlaTjTsFW5O5bo.svg)](https://asciinema.org/a/EGPnZHPLj05TlaTjTsFW5O5bo)
+
+# 参考资料
+·[如何查找文件](https://jingyan.baidu.com/article/3065b3b6b28b7cbecff8a4e8.html)
+·[查找硬件信息](https://blog.csdn.net/qq_15437629/article/details/51601521)
