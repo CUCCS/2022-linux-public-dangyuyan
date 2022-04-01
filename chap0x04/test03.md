@@ -313,8 +313,9 @@
 |500|3|0.000191%
 |501|27|0.001720%
 ## 分别统计不同4XX状态码对应的TOP 10 URL和对应出现的总次数
-|code=403|URL|count
-|---|---|---|
+code=403
+|URL|count
+|---|---|
 |/software/winvn/winvn.html/bluemarb.gif|32
 |/software/winvn/winvn.html/wvsmall.gif|32
 |/software/winvn/winvn.html/winvn.gif|32
@@ -325,7 +326,10 @@
 |/ksc.html/images/USA-logosmall.gif|10
 |/ksc.html/facts/about_ksc.html|5
 |/ksc.html/shuttle/missions/missions.html|4
-|code=404|URL|count
+
+code=404
+|URL|count
+|---|---
 |/pub/winvn/readme.txt|1337
 |/pub/winvn/release.txt|1185
 |/shuttle/missions/STS-69/mission-STS-69.html|683
