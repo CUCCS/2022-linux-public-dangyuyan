@@ -69,6 +69,11 @@ tar -xvf worldcupplayerinfo.tsv.tar.gz
 [test03.md](/chap0x04/test03.md)
 
 
+# 问题
+* 在用vscode连接远程服务器一直失败，在详细地看报错后发现是cmd里面ssh不能正常使用，报错```Bad owner or permissions on .ssh/config```,于是在环境变量中修改ComSpec的变量，改为```C:\Windows\System32\cmd.exe```,然后就可以正常运行了(万分感谢揭青莹师姐！！！！)
+
 # 参考资料
-
-
+* [vscode连接处理方法](https://blog.csdn.net/qq_41549459/article/details/88323150)
+* [Windows 下 VSCode 使用 SSH 连接](https://blog.csdn.net/chaoenhu/article/details/103698804)
+* [linux-2020-LyuLumos](https://github.com/CUCCS/linux-2020-LyuLumos)
+* [2021-linux-public-Lychee00](https://github.com/CUCCS/2021-linux-public-Lychee00)
