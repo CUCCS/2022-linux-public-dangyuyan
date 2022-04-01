@@ -66,7 +66,7 @@ tar -xvf worldcupplayerinfo.tsv.tar.gz
 * 写脚本
 ![03](https://user-images.githubusercontent.com/74172793/161090576-f218f786-17d3-4718-bdbf-74489f7281f7.png)
 * 运行结果<br>
-[test03.md](/test03.md)
+[test03.md](/chap0x04/test03.md)
 
 
 # 参考资料
