@@ -153,6 +153,8 @@ sudo vim wp-config-sample
 mv wp-config-sample wp-config
 ```
 * 进入
+![wp](https://user-images.githubusercontent.com/74172793/166226829-b9552e68-84cf-45fa-b084-a8bf19eccaaf.png)
+
 
 5.DVWA
 * 安装
@@ -230,6 +232,7 @@ sudo nginx -t
 systemctl restart nginx.service
 ```
 * 进入
+![dvwa进来了](https://user-images.githubusercontent.com/74172793/166226853-9043fcd4-8155-4b51-b32f-b96e97674fc7.png)
 
 ## 二.过程
 1.使用VeryNginx反向代理Wordpress,DVWA
